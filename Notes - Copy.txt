@@ -1,6 +1,0 @@
-Form untuk barang keluar // sign on
-
-
-KOreksi :
-Kepala Gudang tidak bisa retur pembelian, akses Kepala Toko
-Maximal retur penjualan 1 minggu, harus tertera di nota
